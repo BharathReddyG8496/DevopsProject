@@ -5,13 +5,13 @@ This project demonstrates a real-world implementation of managing microservices 
 ## Project Components
 
 - **Microservices:**
-  - **User Service:** A Flask application running on port 5000.
-  - **Product Service:** A Flask application running on port 5001.
+  - **User Service:** A Flask application running on port 5000.
+  - **Product Service:** A Flask application running on port 5001.
 
 - **Containerization:**
-  - Each microservice is containerized using Docker.
+  - Each microservice is containerized using Docker.
 
 - **Ansible:**
-  - Automates the build and deployment of Docker images and containers.
+  - Automates the build and deployment of Docker images and containers.
 
 ## Directory Structure
